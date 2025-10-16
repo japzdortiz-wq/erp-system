@@ -1,0 +1,5 @@
+{
+  "name": "ERP Purchasing Management System",
+  "description": "A comprehensive ERP system for managing purchase orders, suppliers, and inventory items. Features a dashboard with key metrics, detailed reporting, and an AI-powered procurement assistant.",
+  "requestFramePermissions": []
+}
